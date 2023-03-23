@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [altafshaikh.netlify.app](altafshaikh.netlify.app)
+- 👨‍💻 All of my projects are available at [altafshaikh.netlify.app](https://altafshaikh.netlify.app)
 
 - 📫 How to reach me **altafalamshaikh55@gmail.com**
 
