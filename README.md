@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Altaf Alam Shaikh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently working as a **React Js Developer** 
 
 - 👨‍💻 All of my projects are available at [altafshaikh.netlify.app](https://altafshaikh.netlify.app)
 
