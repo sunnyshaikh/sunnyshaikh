@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Altaf Alam Shaikh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I am a**Software Developer** 
+- 🌱 I am a **Software Developer** 
 
 - 👨‍💻 Portfolio - [altafshaikh.netlify.app](https://altafshaikh.netlify.app)
 
